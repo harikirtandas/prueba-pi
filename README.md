@@ -1,5 +1,5 @@
-### Primer practica de git
+# Primer practica de git
 
-comandos básicos
+Comandos básicos
 
 Práctica con repositorio remoto
